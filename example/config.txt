@@ -1,0 +1,2 @@
+Prefix plugins/BamHash/example/
+Plugin BamHash inputfile S12_R1.fasta outputfile none
